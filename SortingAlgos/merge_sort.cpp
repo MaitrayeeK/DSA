@@ -38,7 +38,7 @@ void merge_sort(vector<int> &arr, int low, int high){
 
 int main(){
     int n;
-    cout << "Enter the number of elemnts: ";
+    cout << "Enter the number of elements: ";
     cin >> n;
     vector<int> arr(n);
     cout << "Enter the elements: ";
